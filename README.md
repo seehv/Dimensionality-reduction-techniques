@@ -5,10 +5,10 @@ These techniques has been tested on popular datasets of MNIST and Olivetti faces
 To run the code, you would need these libraries to be installed in your environment.
 Please not the version as well as some functionalities might not work with older versions.
 
-numpy
-sklearn
-tensorflow
-keras
-matplotlib
-mpl_toolkits
-sklearn
++ numpy
++ sklearn
++ tensorflow
++ keras
++ matplotlib
++ mpl_toolkits
++ sklearn
